@@ -6,3 +6,5 @@
 * RAM (Random Access Memory)
 * Expansion card
 * Storage drives
+* Connectors
+* Ports
