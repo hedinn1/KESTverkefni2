@@ -36,23 +36,24 @@ Locate the optical drive (Blu-ray, DVD, etc.). Carefully disconnect the power an
 
 Locate the power supply. Find the power connection(s) to the motherboard. Gently remove the power connection(s) from the motherboard. Disconnect the power cables from any case fans. Disconnect the power cable from the video card if it requires one. Disconnect any other power supply cables from where they were connected. Locate and remove all the screws that secure the power supply to the case. Put all the screws in one place and label them. Carefully remove the power supply from the case. Place the power supply with the other computer components
 * Question: How many pins are there in the motherboard connector? **4** 
-* Question: If there were additional cables disconnected, to what were they connected?  * Question: How many screws secure the power supply to the case? 
+* Question: If there were additional cables disconnected, to what were they connected? **There were no additional cables**  
+* Question: How many screws secure the power supply to the case? **6**
 
 #### Step 4 - Remove Adapter Cards
 
 Locate any adapter cards that are installed in the computer, such as a video, NIC, or sound card. Locate and remove the screw that secures the adapter card to the case. Put the adapter card screws in one place and label them. Carefully remove the adapter card from the slot. Be sure to hold the adapter card by the mounting bracket
 or by the edges. Place the adapter card in an antistatic bag. Repeat this process for all the adapter cards.
 
-* List the adapter cards and slots
+* List the adapter cards and slots **There are no adapter cards**
 
 #### Step 5 - Remove Memory Modules
 
 Locate the memory modules on the motherboard. Remove the memory modules from the motherboard. Be sure to release any locking tabs that may be securing the memory module. Hold the memory module by the edges and gently lift out of the slot. Put
 the memory modules in an antistatic bag.
-* What type of memory modules are installed on the motherboard?
-* How many memory modules are installed on the motherboard?
+* What type of memory modules are installed on the motherboard? **None**
+* How many memory modules are installed on the motherboard? **None**
 
-#### Step 6 - Remove Memory Modules
+#### Step 6 - Remove Data cables
 
 Remove all data cables from the motherboard. Make sure to note the connection location of any cable you disconnect.
-* What types of cables were disconnected?
+* What types of cables were disconnected? **HD Audio Cable**
