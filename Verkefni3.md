@@ -35,3 +35,21 @@ listed. What statuses are listed? **Stopped & running**
 * What is the total physical memory? **2.4GB**
 * What is the available physical memory? **2.1GB**
 *  Click the Memory heading. Click the Memory heading a second time. What effect does this have on the columns? **They become compact**
+
+### 11.2.1.5
+* In the Control Panel, click the View by: drop-down box. What are the viewing options?
+* Navigate to the System and Security category in the Control Panel. Which subcategory would help you troubleshoot common problems? 
+* Which subcategory allow a program through Windows Firewall?
+* Which subcategory allows you to view the basic network information and set up connections?
+* Which subcategory allows you to choose what happens when you insert a media or device?
+* Which subcategory allows you to add a printer?
+* Which subcategory would you use to have a specific file type always open in a specified program?
+* Which subcategory would you use to uninstall a program?
+* Which subcategory would you use to install the Windows telnet client?
+* Which subcategory would you use change the account type from administrator to standard?
+* Which subcategory would you use to view, edit, or remove the web and Windows credentials?
+* Which subcategory would you use to customize the Taskbar?
+* Which subcategory would you use to show hidden files and folders?
+* Which subcategory would you use to show extensions for known file types?
+
+
