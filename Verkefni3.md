@@ -83,5 +83,19 @@ listed. What statuses are listed? **Stopped & running**
 * Which subcategory would you use to show extensions for known file types?
 
 ### 11.2.2.3
+* What is the advantage of having most users work within a Standard user account?
+*  Why is it important to protect all accounts with strong passwords?
+* Why would you create a user with Standard privileges?
+Type your answers here.
+* In what type of situation would an IT administrator delete a user account and choose to keep the files of that
+user account instead of deleting them?
+
+
+### 11.2.5.8
+
+* In the Performance Options window, click the Advanced tab. What is the current size of the virtual memory (paging file)?
+* Click Change in the Virtual memory area to open the Virtual Memory window. Remove the check mark from Automatically manage paging file size for all drives. What Drive [Volume Label] contains the paging file?
+* What is the recommended paging file size for all drives?
+* The Virtual Memory window opens displaying the new paging file information. What Drive [Volume Label] contains the paging file?
 
 
