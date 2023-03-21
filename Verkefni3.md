@@ -24,6 +24,16 @@
 * What are the tabs in the ITE (I:) Properties window?
 * What are the tabs in the ITE Test Document Properties window?
 
+### 11.1.2.10
+* After logging into Windows, you are presented with the Windows Desktop. List some of the icons that are on the Desktop.
+* What type of information is available on the Desktop and Taskbar?
+* Name a few applications listed in the Start Menu.
+* Right-click an application or a Windows tile from within the Start Menu. What are some of the available options?
+* In Windows 11, click Search (magnifier) and enter the name in the Search bar.
+* What are the available options in the Taskbar settings?
+* What are the available options in the Task View settings?
+* What can you do in the Notification & actions Settings window?
+
 ### 11.1.3.4
 * Open the web browser again. Right-click the web browser in the Task Manager. What options are available? **Expand, End task, Resource values, Provide feedback**
 * Use the scroll bar on the right side of the Services window to view all the services
@@ -35,6 +45,26 @@ listed. What statuses are listed? **Stopped & running**
 * What is the total physical memory? **2.4GB**
 * What is the available physical memory? **2.1GB**
 *  Click the Memory heading. Click the Memory heading a second time. What effect does this have on the columns? **They become compact**
+
+### 11.1.4.11
+* Click Start. Search for File Explorer or click the Folder icon in the Taskbar.
+* b. Click Desktop on the left panel.
+* c. In the right panel, right-click New > Folder to create a new folder on the Desktop. Name this new folder, Folder1.
+* d. Create another folder and name it Folder2.
+* e. Move Folder2 into Folder1. Click Folder2 and use your mouse to drag-and-drop Folder2 into Folder1.
+* What happened with Folder1 and Folder2 on the Desktop?
+* What is the file extension for the text document?
+* Make a copy of the text document and place it in Folder2. How would you do it?
+* Right-click the text document > click Properties. Click the Details tab. What are the attributes associated with this file?
+* Now create a folder named Folder3 inside Folder2. What is the complete path to Folder3?
+* Which directories are listed under Quick access?
+* Drag and drop Folder1 onto Quick access if it is not already listed under Quick access. What happened? Why would you want to do this?
+* What are folders listed in the Local Disk (C:)?
+* Open the folder associated with your username. Were you able to open it? Explain.
+* Open the folder associated with another username if it is available on the PC. Were you able to open it? Explain.
+* How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
+* Which folders or files listed under the Libraries heading?
+* How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
 
 ### 11.2.1.5
 * In the Control Panel, click the View by: drop-down box. What are the viewing options?
@@ -51,5 +81,7 @@ listed. What statuses are listed? **Stopped & running**
 * Which subcategory would you use to customize the Taskbar?
 * Which subcategory would you use to show hidden files and folders?
 * Which subcategory would you use to show extensions for known file types?
+
+### 11.2.2.3
 
 
