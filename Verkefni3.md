@@ -16,7 +16,7 @@
 
 ### 10.2.1.8
 * What type of File System is used on the NEW VOLUME (I:)?
-* How much Free Space is shown? yes
+* How much Free Space is shown?
 * List the tabs found in the NEW VOLUME (I): Properties window?
 * What tabs are listed in the ITE Test Document Properties window?
 * What happens if you do not run as administrator when you open the command prompt?
