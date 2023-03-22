@@ -15,7 +15,7 @@
 * What is the default installation location for Packet Tracer? **C:\Program Files\Cisco Packet Tracer**
 
 ### 10.2.1.8
-* What type of File System is used on the NEW VOLUME (I:)?
+* What type of File System is used on the NEW VOLUME (I:)? **Fat32**
 * How much Free Space is shown?
 * List the tabs found in the NEW VOLUME (I): Properties window?
 * What tabs are listed in the ITE Test Document Properties window?
