@@ -20,7 +20,7 @@
 * List the tabs found in the NEW VOLUME (I): Properties window? **ReadyBoost, Previous Versions, Customize, General, Tools, Hardware, Sharing**
 * What happens if you do not run as administrator when you open the command prompt? **you may encounter certain limitations or restrictions**
 * What type of File System is used for the ITE (I:) drive? **NTFS**
-* What are the tabs in the ITE (I:) Properties window? **same as NEW VOLUME**
+* What are the tabs in the ITE (I:) Properties window? **General, Security,  Sharing ,Previous Versions ,Tools**
 
 ### 11.1.2.10
 * After logging into Windows, you are presented with the Windows Desktop. List some of the icons that are on the Desktop. **Microsoft edge, file explorer, Microsoft store**
