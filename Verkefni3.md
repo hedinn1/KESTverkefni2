@@ -108,6 +108,17 @@ user account instead of deleting them?
 * In the Services console, search for DHCP Client. Right-click DHCP Client and select Stop. When DHCP Client stops, what other services will also be stopped?
 * Click No in the Stop Other Services window. Why is it important to exercise care when managing services?
 
+### 11.3.2.7 
+* Right-click the Desktop > select Personalize. What is the background picture?
+* What is the data value of the Background?
+* What is the data value of the Background? Compare the new value in the Registry to the value saved in BlueBKG.reg.
+* Import a registry file What is the data value of the Background?
+* What is the color of the desktop?
+* Restart the computer. What is the color of the desktop?
+* Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network?
+* After restarting the computer, why was the desktop color changed?
+
+
 ### 11.3.2.8
 * To open System Configuration, click Start, search for msconfig.
 Note: Do not make any changes in this utility without instructor permission. Click the General tab. What are the startup options?
@@ -122,12 +133,57 @@ When the DirectX Diagnostic Tool first opens, it may take a minute to load all i
 * How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser? What command would you use to verify the creation of the nested directories?
 * Clear the screen using the command line. What command did you use?
 * Press F7 on the keyboard for the command history. What is the last command that you have used?
+
 ### 11.4.2.7
 * Type cd at the command prompt. What is the current directory?
 * Type cd ITEfolder3 at the command prompt and press Enter. Which folder are you in now?
 * Create ITEfolder4 in the current directory. Within the ITEfolder4 folder, create a folder named ITEfolder5. Use the dir command to verify the folder creation. What command or commands did you use to create the nested folders? 
 * To delete a file or multiple files, use the del command with the file names at the prompt. What single command would you use to delete all the files with doc2 in the filename? Use the command to remove the files with doc2 in the filename. What command would you use to delete all the files in the directory? Use the command to remove the files
 * What are the advantages of using CLI vs. GUI?
+
+### 11.4.3.2
+* What is the option to fix errors on the drive?
+* What is the option to force the volume to dismount first if necessary?
+* What is the option to locate bad sectors and recover readable information?
+* Enter the chkdsk command to check the C:\ drive with the options from the questions in the previous step. What happened? Explain
+* What is the file system of the drive?
+* Use the shrink command with the option querymax to determine the maximum number of bytes that the volume can be shrink by. What is the maximum number of reclaimable bytes?
+
+### 11.4.4.2
+* Enter the tasklist help command to review the syntax and options for the tasklist command. What is the option to list the modules that are associated with a task?
+* What command would you use to find out all the tasks that are associated with your username?
+* What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes?
+* What command would you use if you wanted to terminate all process owned by a particular user?
+* What option would you use if you only wanted to scan the integrity of all the protected system files?
+* Log back into the computer and shut it down in 120 seconds using the command line. Record the command below. What warning message did you see?
+* What command would you use to abort the shutdown?
+
+### 11.4.5.3
+* Use the net user command to verify the user has been created. When does the password expire?
+* What is the local drive letter assigned to the connected resource?
+
+### 11.5.2.4
+* Click Start > Control Panel > System. What is the name of your computer? Provide your computer name and shared folder name to your
+partner. 
+* What is the name of your partner’s computer and shared folder from your partner?
+* Click Start > enter the shared folder name, for example, \\PartnerComputer\ShareXX. Notice that PartnerComputer is the name of your partner’s computer and ShareXX is the name of the shared folder. When you have successfully accessed the resource, the content in the folder ShareXX is displayed. Can you open the Brief file?
+* Can you delete the Brief file? What happens?
+* Right-click the ShareXX folder, and then choose Properties > select the Sharing tab > click Advanced Sharing > click Permissions. What are the default permissions? 
+* What needs to be changed to allow any remote users to make changes in the ShareXX folder?
+
+### 11.5.6.2
+* What is the current Remote Desktop Port?
+* Add a local user to your computer. This new user will not be associated with online Microsoft accounts. Create a username and password combination and record it below:
+Username: WRITE HERE
+Password: WRITE HERE
+* What message is displayed on the remote computer and how much time is mentioned?
+* What is the default amount of time remote assistance invitations remain open?
+* What are the ways to send an invitation to a trusted person with Remote Assistance?
+* What type of scenarios are most appropriate for Remote Assistance in contrast with Remote Desktop?
+* How many simultaneous users can access a Windows computer at a single time?
+* What type of security components are implemented with Windows Remote Desktop?
+* How could remote desktop be used as a beneficial technology in the workplace?
+
 
 
 
