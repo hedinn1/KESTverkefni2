@@ -12,7 +12,7 @@
 * What are the instructions to update the new BIOS version? **Go into tools > UEFI update utility**
 
 ### 3.1.2.7
-* What is the default installation location for Packet Tracer?
+* What is the default installation location for Packet Tracer? **C:\Program Files\Cisco Packet Tracer**
 
 ### 10.2.1.8
 * What type of File System is used on the NEW VOLUME (I:)?
