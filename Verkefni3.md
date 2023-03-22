@@ -16,13 +16,11 @@
 
 ### 10.2.1.8
 * What type of File System is used on the NEW VOLUME (I:)? **Fat32**
-* How much Free Space is shown?
-* List the tabs found in the NEW VOLUME (I): Properties window?
-* What tabs are listed in the ITE Test Document Properties window?
-* What happens if you do not run as administrator when you open the command prompt?
-* What type of File System is used for the ITE (I:) drive?
-* What are the tabs in the ITE (I:) Properties window?
-* What are the tabs in the ITE Test Document Properties window?
+* How much Free Space is shown? **1.99gb**
+* List the tabs found in the NEW VOLUME (I): Properties window? **ReadyBoost, Previous Versions, Customize, General, Tools, Hardware, Sharing**
+* What happens if you do not run as administrator when you open the command prompt? **you may encounter certain limitations or restrictions**
+* What type of File System is used for the ITE (I:) drive? **NTFS**
+* What are the tabs in the ITE (I:) Properties window? **same as NEW VOLUME**
 
 ### 11.1.2.10
 * After logging into Windows, you are presented with the Windows Desktop. List some of the icons that are on the Desktop. **Microsoft edge, file explorer, Microsoft store**
