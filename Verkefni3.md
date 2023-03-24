@@ -65,20 +65,20 @@ listed. What statuses are listed? **Stopped & running**
 * How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
 
 ### 11.2.1.5
-* In the Control Panel, click the View by: drop-down box. What are the viewing options?
-* Navigate to the System and Security category in the Control Panel. Which subcategory would help you troubleshoot common problems? 
-* Which subcategory allow a program through Windows Firewall?
-* Which subcategory allows you to view the basic network information and set up connections?
-* Which subcategory allows you to choose what happens when you insert a media or device?
-* Which subcategory allows you to add a printer?
-* Which subcategory would you use to have a specific file type always open in a specified program?
-* Which subcategory would you use to uninstall a program?
-* Which subcategory would you use to install the Windows telnet client?
-* Which subcategory would you use change the account type from administrator to standard?
-* Which subcategory would you use to view, edit, or remove the web and Windows credentials?
-* Which subcategory would you use to customize the Taskbar?
-* Which subcategory would you use to show hidden files and folders?
-* Which subcategory would you use to show extensions for known file types?
+* In the Control Panel, click the View by: drop-down box. What are the viewing options? **Large icons, small icons, category, list**
+* Navigate to the System and Security category in the Control Panel. Which subcategory would help you troubleshoot common problems? **Security and maintenance**
+* Which subcategory allow a program through Windows Firewall? **Windows firewall**
+* Which subcategory allows you to view the basic network information and set up connections? **Network and sharing center**
+* Which subcategory allows you to choose what happens when you insert a media or device? **Autoplay**
+* Which subcategory allows you to add a printer? **Devices and printers**
+* Which subcategory would you use to have a specific file type always open in a specified program? **Default programs**
+* Which subcategory would you use to uninstall a program? **Programs and features**
+* Which subcategory would you use to install the Windows telnet client? **Turn Windows features on or off**
+* Which subcategory would you use change the account type from administrator to standard? **User Accounts.**
+* Which subcategory would you use to view, edit, or remove the web and Windows credentials? **Credential Manager**
+* Which subcategory would you use to customize the Taskbar? **Taskbar and Navigation**
+* Which subcategory would you use to show hidden files and folders? **File Explorer Options and then select "Show hidden files"**
+* Which subcategory would you use to show extensions for known file types? **File Explorer Options," then the "View" tab, and then deselect "Hide extensions for known file types**
 
 ### 11.2.2.3
 * What is the advantage of having most users work within a Standard user account?
