@@ -99,9 +99,9 @@ listed. What statuses are listed? **Stopped & running**
 * What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer. Why would it be grayed out? What are the other available options? **it allows you to uninstall newly installed driver software and revert back to the driver that was used prior to a driver upgrade. The button can be grayed out if a new driver has not been installed**
 
 ### 11.3.1.11
-* Navigate to Notepad. Attempt to print. What message did you receive? How would you fix this?
-* In the Services console, search for DHCP Client. Right-click DHCP Client and select Stop. When DHCP Client stops, what other services will also be stopped?
-* Click No in the Stop Other Services window. Why is it important to exercise care when managing services?
+* Navigate to Notepad. Attempt to print. What message did you receive? How would you fix this? **it just worked?**
+* In the Services console, search for DHCP Client. Right-click DHCP Client and select Stop. When DHCP Client stops, what other services will also be stopped? **DNS Client,Network LocationAwareness,Network Store Interface**
+* Click No in the Stop Other Services window. Why is it important to exercise care when managing services? **because stopping or disabling the wrong service can have unintended things**
 
 ### 11.3.2.7 
 * Right-click the Desktop > select Personalize. What is the background picture?
