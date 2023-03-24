@@ -115,13 +115,13 @@ listed. What statuses are listed? **Stopped & running**
 
 ### 11.3.2.8
 * To open System Configuration, click Start, search for msconfig.
-Note: Do not make any changes in this utility without instructor permission. Click the General tab. What are the startup options?
-* Click the Services tab. This tab lists the computers services and status. Can you enable and disable services at this tab?
-* Click the Startup tab. This tab indicates that the Task Manager is used to manage startup items. There is
+Note: Do not make any changes in this utility without instructor permission. Click the General tab. What are the startup options? **Diagnostic,Selective,Normal**
+* Click the Services tab. This tab lists the computers services and status. Can you enable and disable services at this tab? **yes?**
+* Click the Startup tab. This tab indicates that the Task Manager is used to manage startup items. There is **you get Event Viewer, Resource Monitor, Command Prompt, Registry Editor**
 also a link to Startup tab of the Task Manager on this tab. Click the Tools tab. What can you do in this tab?
 * Open the DirectX Diagnostic Tool by clicking Start, and search for dxdiag. If you are asked to have DirectX check driver signatures, click No.
-When the DirectX Diagnostic Tool first opens, it may take a minute to load all information. Make sure the System tab is active. What does this tool report?
-* Why would it be beneficial to turn off a service in the system configuration?
+When the DirectX Diagnostic Tool first opens, it may take a minute to load all information. Make sure the System tab is active. What does this tool report? **computer name,processor,memory,DirectX version,display settings.**
+* Why would it be beneficial to turn off a service in the system configuration? **so you can slow things down**
 
 ### 11.4.1.5
 * How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser? What command would you use to verify the creation of the nested directories?
