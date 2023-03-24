@@ -51,8 +51,8 @@ listed. What statuses are listed? **Stopped & running**
 * e. Move Folder2 into Folder1. 
 * What happened with Folder1 and Folder2 on the Desktop? **Folder 2 is in folder 1**
 * What is the file extension for the text document? **txt**
-* Make a copy of the text document and place it in Folder2. How would you do it?
-* Right-click the text document > click Properties. Click the Details tab. What are the attributes associated with this file?
+* Make a copy of the text document and place it in Folder2. How would you do it? **click on the txt and ctrl c and then ctrl v**
+* Right-click the text document > click Properties. Click the Details tab. What are the attributes associated with this file? **General,security,details,previous version**
 * Now create a folder named Folder3 inside Folder2. What is the complete path to Folder3?
 * Which directories are listed under Quick access?
 * Drag and drop Folder1 onto Quick access if it is not already listed under Quick access. What happened? Why would you want to do this?
