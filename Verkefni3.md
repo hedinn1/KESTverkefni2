@@ -80,12 +80,10 @@ listed. What statuses are listed? **Stopped & running**
 * Which subcategory would you use to show extensions for known file types? **File Explorer Options," then the "View" tab, and then deselect "Hide extensions for known file types**
 
 ### 11.2.2.3
-* What is the advantage of having most users work within a Standard user account?
-*  Why is it important to protect all accounts with strong passwords?
-* Why would you create a user with Standard privileges?
-Type your answers here.
-* In what type of situation would an IT administrator delete a user account and choose to keep the files of that
-user account instead of deleting them?
+* What is the advantage of having most users work within a Standard user account? **it limits their ability to make system-wide changes or install software that could potentially harm the system**
+*  Why is it important to protect all accounts with strong passwords? **because weak passwords can be easily guessed or cracked**
+* Why would you create a user with Standard privileges? **for general users who need to perform common tasks on their computer, but do not require administrative privileges.**
+* In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them? **if the user account has been compromised, but the files are still needed for legal or business purposes**
 
 
 ### 11.2.5.8
@@ -181,10 +179,3 @@ Password: WRITE HERE
 * How many simultaneous users can access a Windows computer at a single time?
 * What type of security components are implemented with Windows Remote Desktop?
 * How could remote desktop be used as a beneficial technology in the workplace?
-
-
-
-
-
-
-
