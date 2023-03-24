@@ -53,9 +53,9 @@ listed. What statuses are listed? **Stopped & running**
 * What is the file extension for the text document? **txt**
 * Make a copy of the text document and place it in Folder2. How would you do it? **click on the txt and ctrl c and then ctrl v**
 * Right-click the text document > click Properties. Click the Details tab. What are the attributes associated with this file? **General,security,details,previous version**
-* Now create a folder named Folder3 inside Folder2. What is the complete path to Folder3?
-* Which directories are listed under Quick access?
-* Drag and drop Folder1 onto Quick access if it is not already listed under Quick access. What happened? Why would you want to do this?
+* Now create a folder named Folder3 inside Folder2. What is the complete path to Folder3? **C:User/notandi/Desktop/Folder1/Folder2/Folder3**
+* Which directories are listed under Quick access? **Desktop,Documents,Pictures**
+* Drag and drop Folder1 onto Quick access if it is not already listed under Quick access. What happened? Why would you want to do this? **it added Folder1 to quick acces you would want to do this to files that you would need alot like for a writer might want word ready to uses or some programer want files**
 * What are folders listed in the Local Disk (C:)?
 * Open the folder associated with your username. Were you able to open it? Explain.
 * Open the folder associated with another username if it is available on the PC. Were you able to open it? Explain.
