@@ -57,12 +57,11 @@ listed. What statuses are listed? **Stopped & running**
 * Now create a folder named Folder3 inside Folder2. What is the complete path to Folder3? **C:User/notandi/Desktop/Folder1/Folder2/Folder3**
 * Which directories are listed under Quick access? **Desktop,Documents,Pictures**
 * Drag and drop Folder1 onto Quick access if it is not already listed under Quick access. What happened? Why would you want to do this? **it added Folder1 to quick acces you would want to do this to files that you would need alot like for a writer might want word ready to uses or some programer want files**
-* What are folders listed in the Local Disk (C:)?
-* Open the folder associated with your username. Were you able to open it? Explain.
-* Open the folder associated with another username if it is available on the PC. Were you able to open it? Explain.
-* How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
-* Which folders or files listed under the Libraries heading?
-* How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
+* What are folders listed in the Local Disk (C:)? **intel,Perflogs,Program Files,Programs Files (86),User,Windows**
+* Open the folder associated with your username. Were you able to open it? Explain. **I clicked it and it opend it as 12 apps in it**
+* Open the folder associated with another username if it is available on the PC. Were you able to open it? Explain. **there is only mine and Public both can be opend**
+* How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer? **Right-click on folder and select "Remove location from library.**
+* Which folders or files listed under the Libraries heading? **libraries: Documents, Music, Pictures, and Videos**
 
 ### 11.2.1.5
 * In the Control Panel, click the View by: drop-down box. What are the viewing options? **Large icons, small icons, category, list**
