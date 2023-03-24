@@ -104,14 +104,13 @@ listed. What statuses are listed? **Stopped & running**
 * Click No in the Stop Other Services window. Why is it important to exercise care when managing services? **because stopping or disabling the wrong service can have unintended things**
 
 ### 11.3.2.7 
-* Right-click the Desktop > select Personalize. What is the background picture?
-* What is the data value of the Background?
-* What is the data value of the Background? Compare the new value in the Registry to the value saved in BlueBKG.reg.
-* Import a registry file What is the data value of the Background?
-* What is the color of the desktop?
-* Restart the computer. What is the color of the desktop?
-* Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network?
-* After restarting the computer, why was the desktop color changed?
+* Right-click the Desktop > select Personalize. What is the background picture? **The default**
+* What is the data value of the Background? **0 99 127**
+* What is the data value of the Background? Compare the new value in the Registry to the value saved in BlueBKG.reg. **0 255 0**
+* Import a registry file What is the data value of the Background? **255 0 0**
+* What is the color of the desktop? **blue**
+* Restart the computer. What is the color of the desktop? **green**
+* After restarting the computer, why was the desktop color changed? **The registry edits were only temporary**
 
 
 ### 11.3.2.8
