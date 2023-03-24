@@ -93,10 +93,10 @@ listed. What statuses are listed? **Stopped & running**
 * What is the recommended paging file size for all drives? **1367**
 
 ### 11.2.6.2 
-* What information is listed in the Device Manager window? Why would you use it?
-* In the Generic Non-PnP Monitor Properties window, select the Driver tab. This window displays the software driver information that is currently installed for this monitor. What additional information does Driver Details provide?
-* Click Update Driver. What two options do you have for updating the driver?
-* What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer. Why would it be grayed out? What are the other available options?
+* What information is listed in the Device Manager window? Why would you use it? **The device manager window displays information about each device. you would use to to view and control hardware attached to your computer**
+* In the Generic Non-PnP Monitor Properties window, select the Driver tab. This window displays the software driver information that is currently installed for this monitor. What additional information does Driver Details provide? **The Driver provider, Digital Signer, and date**
+* Click Update Driver. What two options do you have for updating the driver? **Search automatically for drivers, browse my computer for drivers**
+* What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer. Why would it be grayed out? What are the other available options? **it allows you to uninstall newly installed driver software and revert back to the driver that was used prior to a driver upgrade. The button can be grayed out if a new driver has not been installed**
 
 ### 11.3.1.11
 * Navigate to Notepad. Attempt to print. What message did you receive? How would you fix this?
