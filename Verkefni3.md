@@ -89,7 +89,7 @@ listed. What statuses are listed? **Stopped & running**
 ### 11.2.5.8
 
 * In the Performance Options window, click the Advanced tab. What is the current size of the virtual memory (paging file)? **1408mb**
-* Click Change in the Virtual memory area to open the Virtual Memory window. Remove the check mark from Automatically manage paging file size for all drives. What Drive [Volume Label] contains the paging file? **think I**
+* Click Change in the Virtual memory area to open the Virtual Memory window. Remove the check mark from Automatically manage paging file size for all drives. What Drive [Volume Label] contains the paging file? **think "I" at least i think i was looking at the right thing**
 * What is the recommended paging file size for all drives? **1367**
 
 ### 11.2.6.2 
