@@ -48,8 +48,8 @@ listed. What statuses are listed? **Stopped & running**
 * b. Click Desktop on the left panel.
 * c. In the right panel, right-click New > Folder to create a new folder on the Desktop. Name this new folder, Folder1.
 * d. Create another folder and name it Folder2.
-* e. Move Folder2 into Folder1. Click Folder2 and use your mouse to drag-and-drop Folder2 into Folder1.
-* What happened with Folder1 and Folder2 on the Desktop?
+* e. Move Folder2 into Folder1. 
+* What happened with Folder1 and Folder2 on the Desktop? **Folder 2 is in folder 1**
 * What is the file extension for the text document?
 * Make a copy of the text document and place it in Folder2. How would you do it?
 * Right-click the text document > click Properties. Click the Details tab. What are the attributes associated with this file?
