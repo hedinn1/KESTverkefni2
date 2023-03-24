@@ -1,6 +1,7 @@
 # Verkefni 3
 ### 10.3.1.4
-* What options are available in the Driver tab?
+* What options are available in the Driver tab? **Driver details, update driver, disable device, uninstall device**
+
 
 ### 3.1.2.5
 * What key or combination of keys is used to run Setup on your computer? **F2 when restarting**
