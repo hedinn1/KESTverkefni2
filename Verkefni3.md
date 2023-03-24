@@ -50,7 +50,7 @@ listed. What statuses are listed? **Stopped & running**
 * d. Create another folder and name it Folder2.
 * e. Move Folder2 into Folder1. 
 * What happened with Folder1 and Folder2 on the Desktop? **Folder 2 is in folder 1**
-* What is the file extension for the text document?
+* What is the file extension for the text document? **txt**
 * Make a copy of the text document and place it in Folder2. How would you do it?
 * Right-click the text document > click Properties. Click the Details tab. What are the attributes associated with this file?
 * Now create a folder named Folder3 inside Folder2. What is the complete path to Folder3?
