@@ -124,9 +124,9 @@ When the DirectX Diagnostic Tool first opens, it may take a minute to load all i
 * Why would it be beneficial to turn off a service in the system configuration? **so you can slow things down**
 
 ### 11.4.1.5
-* How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser? What command would you use to verify the creation of the nested directories?
-* Clear the screen using the command line. What command did you use?
-* Press F7 on the keyboard for the command history. What is the last command that you have used?
+* How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser? What command would you use to verify the creation of the nested directories? **Would use mkdir a\b\c**
+* Clear the screen using the command line. What command did you use? **used cls**
+* Press F7 on the keyboard for the command history. What is the last command that you have used? **cls?**
 
 ### 11.4.2.7
 * Type cd at the command prompt. What is the current directory?
