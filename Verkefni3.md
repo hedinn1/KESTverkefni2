@@ -141,13 +141,13 @@ When the DirectX Diagnostic Tool first opens, it may take a minute to load all i
 * What is the option to locate bad sectors and recover readable information? **/R**
 
 ### 11.4.4.2
-* Enter the tasklist help command to review the syntax and options for the tasklist command. What is the option to list the modules that are associated with a task?
-* What command would you use to find out all the tasks that are associated with your username?
-* What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes?
-* What command would you use if you wanted to terminate all process owned by a particular user?
-* What option would you use if you only wanted to scan the integrity of all the protected system files?
-* Log back into the computer and shut it down in 120 seconds using the command line. Record the command below. What warning message did you see?
-* What command would you use to abort the shutdown?
+* Enter the tasklist help command to review the syntax and options for the tasklist command. What is the option to list the modules that are associated with a task? **tasklist /m ntdll.dll**
+* What command would you use to find out all the tasks that are associated with your username? **tasklist /v /fi**
+* What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes? **tasklist /fi "cputime gt 01:40:00"**
+* What command would you use if you wanted to terminate all process owned by a particular user? **taskkill /f /fi "name eq [name]"**
+* What option would you use if you only wanted to scan the integrity of all the protected system files? **sfc /verifyonly**
+* Log back into the computer and shut it down in 120 seconds using the command line. Record the command below. What warning message did you see? **shutdown /s /t 120**
+* What command would you use to abort the shutdown? **shutdown /a**
 
 ### 11.4.5.3
 * Use the net user command to verify the user has been created. When does the password expire?
