@@ -129,11 +129,11 @@ When the DirectX Diagnostic Tool first opens, it may take a minute to load all i
 * Press F7 on the keyboard for the command history. What is the last command that you have used? **cls?**
 
 ### 11.4.2.7
-* Type cd at the command prompt. What is the current directory?
-* Type cd ITEfolder3 at the command prompt and press Enter. Which folder are you in now?
-* Create ITEfolder4 in the current directory. Within the ITEfolder4 folder, create a folder named ITEfolder5. Use the dir command to verify the folder creation. What command or commands did you use to create the nested folders? 
-* To delete a file or multiple files, use the del command with the file names at the prompt. What single command would you use to delete all the files with doc2 in the filename? Use the command to remove the files with doc2 in the filename. What command would you use to delete all the files in the directory? Use the command to remove the files
-* What are the advantages of using CLI vs. GUI?
+* Type cd at the command prompt. What is the current directory? **C: \Users\notando**
+* Type cd ITEfolder3 at the command prompt and press Enter. Which folder are you in now? **ITEfolder3**
+* Create ITEfolder4 in the current directory. Within the ITEfolder4 folder, create a folder named ITEfolder5. Use the dir command to verify the folder creation. What command or commands did you use to create the nested folders? **md ITEfolder4 then md ITEfolder4\ITEfolder5 and dir**
+* To delete a file or multiple files, use the del command with the file names at the prompt. What single command would you use to delete all the files with doc2 in the filename? Use the command to remove the files with doc2 in the filename. What command would you use to delete all the files in the directory? Use the command to remove the files **del  (star)doc2(star) **
+* What are the advantages of using CLI vs. GUI? **CLI is, with practice, configuration can be far faster**
 
 ### 11.4.3.2
 * What is the option to fix errors on the drive?
