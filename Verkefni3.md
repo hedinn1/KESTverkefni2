@@ -136,12 +136,9 @@ When the DirectX Diagnostic Tool first opens, it may take a minute to load all i
 * What are the advantages of using CLI vs. GUI? **CLI is, with practice, configuration can be far faster**
 
 ### 11.4.3.2
-* What is the option to fix errors on the drive?
-* What is the option to force the volume to dismount first if necessary?
-* What is the option to locate bad sectors and recover readable information?
-* Enter the chkdsk command to check the C:\ drive with the options from the questions in the previous step. What happened? Explain
-* What is the file system of the drive?
-* Use the shrink command with the option querymax to determine the maximum number of bytes that the volume can be shrink by. What is the maximum number of reclaimable bytes?
+* What is the option to fix errors on the drive? **/F**
+* What is the option to force the volume to dismount first if necessary? **"/X"**
+* What is the option to locate bad sectors and recover readable information? **/R**
 
 ### 11.4.4.2
 * Enter the tasklist help command to review the syntax and options for the tasklist command. What is the option to list the modules that are associated with a task?
