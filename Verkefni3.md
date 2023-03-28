@@ -150,8 +150,8 @@ When the DirectX Diagnostic Tool first opens, it may take a minute to load all i
 * What command would you use to abort the shutdown? **shutdown /a**
 
 ### 11.4.5.3
-* Use the net user command to verify the user has been created. When does the password expire?
-* What is the local drive letter assigned to the connected resource?
+* Use the net user command to verify the user has been created. When does the password expire? **net user [name] /domain**
+* What is the local drive letter assigned to the connected resource? **\\ITE-8\notandi\ITE**
 
 ### 11.5.2.4
 * Click Start > Control Panel > System. What is the name of your computer? Provide your computer name and shared folder name to your
