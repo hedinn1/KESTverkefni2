@@ -157,10 +157,10 @@ When the DirectX Diagnostic Tool first opens, it may take a minute to load all i
 * Click Start > Control Panel > System. What is the name of your computer? Provide your computer name and shared folder name to your
 partner.  **OURS IS "DESKTOP-KTQRI5B", folder is SharingXX**
 * What is the name of your partner’s computer and shared folder from your partner? **LAPTOP-M7K6S53N, ShareXX**
-* Click Start > enter the shared folder name, for example, \\PartnerComputer\ShareXX. Notice that PartnerComputer is the name of your partner’s computer and ShareXX is the name of the shared folder. When you have successfully accessed the resource, the content in the folder ShareXX is displayed. Can you open the Brief file?
-* Can you delete the Brief file? What happens?
-* Right-click the ShareXX folder, and then choose Properties > select the Sharing tab > click Advanced Sharing > click Permissions. What are the default permissions? 
-* What needs to be changed to allow any remote users to make changes in the ShareXX folder?
+* Click Start > enter the shared folder name, for example, \\PartnerComputer\ShareXX. Notice that PartnerComputer is the name of your partner’s computer and ShareXX is the name of the shared folder. When you have successfully accessed the resource, the content in the folder ShareXX is displayed. Can you open the Brief file? **Yes**
+* Can you delete the Brief file? What happens? **No, the computer doesnt have permission to**
+* Right-click the ShareXX folder, and then choose Properties > select the Sharing tab > click Advanced Sharing > click Permissions. What are the default permissions? **Read permission**
+* What needs to be changed to allow any remote users to make changes in the ShareXX folder? **The permission "Change" needs to be granted to the Everyone object**
 
 ### 11.5.6.2
 * What is the current Remote Desktop Port?
