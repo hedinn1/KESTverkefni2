@@ -163,10 +163,8 @@ partner.  **OURS IS "DESKTOP-KTQRI5B", folder is SharingXX**
 * What needs to be changed to allow any remote users to make changes in the ShareXX folder? **The permission "Change" needs to be granted to the Everyone object**
 
 ### 11.5.6.2
-* What is the current Remote Desktop Port?
-* Add a local user to your computer. This new user will not be associated with online Microsoft accounts. Create a username and password combination and record it below:
-Username: WRITE HERE
-Password: WRITE HERE
+* What is the current Remote Desktop Port? **3389**
+* Add a local user to your computer. This new user will not be associated with online Microsoft accounts. Create a username and password combination and record it below: Username: User1, Password: 1234
 * What message is displayed on the remote computer and how much time is mentioned?
 * What is the default amount of time remote assistance invitations remain open?
 * What are the ways to send an invitation to a trusted person with Remote Assistance?
