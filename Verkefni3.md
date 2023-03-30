@@ -167,7 +167,7 @@ partner.  **OURS IS "DESKTOP-KTQRI5B", folder is SharingXX**
 * Add a local user to your computer. This new user will not be associated with online Microsoft accounts. Create a username and password combination and record it below: Username: **User1**, Password: **1234**
 * What message is displayed on the remote computer and how much time is mentioned? **The remote session was disconnected because another user connected to the remote computer. Try connecting again later or contact your system administrator.** 
 * What is the default amount of time remote assistance invitations remain open? **6 hours**
-* What are the ways to send an invitation to a trusted person with Remote Assistance? **type remote assistance again and select Invite someone**
+* What are the ways to send an invitation to a trusted person with Remote Assistance? **choose “Invite someone to connect to your PC and help you, or offer to help”**
 * What type of scenarios are most appropriate for Remote Assistance in contrast with Remote Desktop? **technical support**
 * How many simultaneous users can access a Windows computer at a single time? **up to 2**
 * What type of security components are implemented with Windows Remote Desktop? **Secure Sockets Laye**
