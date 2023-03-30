@@ -155,7 +155,7 @@ When the DirectX Diagnostic Tool first opens, it may take a minute to load all i
 
 ### 11.5.2.4
 * Click Start > Control Panel > System. What is the name of your computer? Provide your computer name and shared folder name to your
-partner. 
+partner.  **OURS IS "DESKTOP-KTQRI5B"
 * What is the name of your partner’s computer and shared folder from your partner?
 * Click Start > enter the shared folder name, for example, \\PartnerComputer\ShareXX. Notice that PartnerComputer is the name of your partner’s computer and ShareXX is the name of the shared folder. When you have successfully accessed the resource, the content in the folder ShareXX is displayed. Can you open the Brief file?
 * Can you delete the Brief file? What happens?
