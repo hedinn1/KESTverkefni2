@@ -28,5 +28,13 @@ folder. Were you successful? Explain.
 * Log off the computer and log on as Staff01, and navigate to the folder C:\. Were you able to access the content in the folders Staff, Students\Student01 and Students\Student02? Explain.
 * Log off the computer. Can you log on as Staff02? Explain.
 
+### 13.3.4.6
+* Open File Explorer. In the left pane, under Network, expand PC-1. Under PC-1, are you able to see the shared folder Cisco?
+* What are the benefits of Windows Firewall? **Windows Firewall is a powerful security feature that provides protection against a variety of network-based threats, is easy to use and configure, and is compatible with other security tools**
+* On PC-2, using File Explorer, attempt to open the network connect to PC-1. Can you connect to PC-1 and view the Cisco shared folder? 
+* Did you receive an error message on PC-2? If so, what was the Error message?
+* On PC-2, re-open File Explorer and attempt to connect to PC-1. Can you connect to computer 1? Explain.
+* What are some possible reasons you may need to make firewall changes? **You want to allow or block an app through the firewall, you want to adjust the firewall settings for different network types, or you want to fix any misconfigurations that may expose your network to attacks or breaches**
+
 
 
