@@ -16,8 +16,8 @@ the account is locked? **Users are locked out after 5 attempts to enter the corr
 * Click the Groups folder. Double-click the Users group. From the description, can the members of the Users group make system wide changes?  **The users group can not make system wide changes**
 * What can the Users group do on the computer? **They can run most applications**
 * Who are the group members? **Student01 and user1**
-* Create a new user account using the name Test and password cisco12345!. Were you successful in creating the new account? **Yes**
-* Navigate to www.cisco.com using a web browser. Were you able to navigate to www.cisco.com? Explain.
+* Create a new user account using the name Test and password cisco12345!. Were you successful in creating the new account? **No**
+* Navigate to www.cisco.com using a web browser. Were you able to navigate to www.cisco.com? **Yes**
 * In the Select Users or Groups window, enter ITEStaff under the heading Enter the object names to
 select. Click Check Names for verification. Click OK to continue. With the group ITEStaff highlighted, what can the members do in this folder?
 * Navigate to the folder C:\Students. Create a folder named Student02 and create a text document in the
