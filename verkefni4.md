@@ -36,5 +36,7 @@ folder. Were you successful? Explain.
 * On PC-2, re-open File Explorer and attempt to connect to PC-1. Can you connect to computer 1? Explain. **Yes, since File sharing was enabled i was able to connect to computer 1**
 * What are some possible reasons you may need to make firewall changes? **You want to allow or block an app through the firewall, you want to adjust the firewall settings for different network types, or you want to fix any misconfigurations that may expose your network to attacks or breaches**
 
-
+### 13.4.1.10
+* here is the file
+[Orn_og_hedinn.zip](https://github.com/hedinn1/KESTverkefni2/files/11334972/Orn_og_hedinn.zip)
 
