@@ -19,14 +19,14 @@ the account is locked? **Users are locked out after 5 attempts to enter the corr
 * Create a new user account using the name Test and password cisco12345!. Were you successful in creating the new account? **No**
 * Navigate to www.cisco.com using a web browser. Were you able to navigate to www.cisco.com? **Yes**
 * In the Select Users or Groups window, enter ITEStaff under the heading Enter the object names to
-select. Click Check Names for verification. Click OK to continue. With the group ITEStaff highlighted, what can the members do in this folder?
+select. Click Check Names for verification. Click OK to continue. With the group ITEStaff highlighted, what can the members do in this folder? **Read, execute, list folder contents** 
 * Navigate to the folder C:\Students. Create a folder named Student02 and create a text document in the
-folder. Were you successful? Explain.
-* Navigate to the folder C:\Staff. Create a folder named Student02 and place a text file in the folder. Were you successful? Explain.
-* Navigate to C:\. Can you place a text file in the Staff folder? Can you modify the text file in folder Student02? Explain. 
-* Navigate to the folder C:\Students. Are you able to access the content in the Student01 and Student02 folders? Explain.
-* Log off the computer and log on as Staff01, and navigate to the folder C:\. Were you able to access the content in the folders Staff, Students\Student01 and Students\Student02? Explain.
-* Log off the computer. Can you log on as Staff02? Explain.
+folder. Were you successful? **Yes**
+* Navigate to the folder C:\Staff. Create a folder named Student02 and place a text file in the folder. Were you successful? **No, he doesnt have permission**
+* Navigate to C:\. Can you place a text file in the Staff folder? Can you modify the text file in folder Student02? **Yes**
+* Navigate to the folder C:\Students. Are you able to access the content in the Student01 and Student02 folders? **Yes**
+* Log off the computer and log on as Staff01, and navigate to the folder C:\. Were you able to access the content in the folders Staff, Students\Student01 and Students\Student02? **Yes, the staff could access all of it**
+* Log off the computer. Can you log on as Staff02? **Yes**
 
 ### 13.3.4.6
 * Open File Explorer. In the left pane, under Network, expand PC-1. Under PC-1, are you able to see the shared folder Cisco? **Yes**
