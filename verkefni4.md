@@ -9,14 +9,14 @@ the account is locked? **Users are locked out after 5 attempts to enter the corr
 * How long should the user have to wait before attempting to log back in? **A user must wait 5 minutes for the lookout counter to reset**
 
 ### 13.3.3.6
-* Expand Local Users and Groups, select the Users folder. What are the names of the accounts listed?
-* Click the Users folder. Right-click your account and select Properties. Click the Member Of tab. Which group does your account belong to?
-* In the New User window, enter Student01 as a new username and cisco12345! as the password. If desired, provide a full name and description for the user. Click Create. What is Student01 required to do when logging in the first time?
-* Double-click Student01. Unselect the User must change password at next logon. What group does Student01 belong to?
-* Click the Groups folder. Double-click the Users group. From the description, can the members of the Users group make system wide changes? 
-* What can the Users group do on the computer?
-* Who are the group members?
-* Create a new user account using the name Test and password cisco12345!. Were you successful in creating the new account? Explain.
+* Expand Local Users and Groups, select the Users folder. What are the names of the accounts listed? **Administrator, DefaultAccount, Guest, notandi, user1**
+* Click the Users folder. Right-click your account and select Properties. Click the Member Of tab. Which group does your account belong to? **Administrator**
+* In the New User window, enter Student01 as a new username and cisco12345! as the password. If desired, provide a full name and description for the user. Click Create. What is Student01 required to do when logging in the first time? **They must change the password**
+* Double-click Student01. Unselect the User must change password at next logon. What group does Student01 belong to? **Users**
+* Click the Groups folder. Double-click the Users group. From the description, can the members of the Users group make system wide changes?  **The users group can not make system wide changes**
+* What can the Users group do on the computer? **They can run most applications**
+* Who are the group members? **Student01 and user1**
+* Create a new user account using the name Test and password cisco12345!. Were you successful in creating the new account? **Yes**
 * Navigate to www.cisco.com using a web browser. Were you able to navigate to www.cisco.com? Explain.
 * In the Select Users or Groups window, enter ITEStaff under the heading Enter the object names to
 select. Click Check Names for verification. Click OK to continue. With the group ITEStaff highlighted, what can the members do in this folder?
