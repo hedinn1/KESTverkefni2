@@ -1,0 +1,12 @@
+$csvPath = Read-Host "C:\Users\HedinnOrn\Desktop\notendur.csv"
+Import-Csv $csvPath | ForEach-Object {
+$nafn = $_.nafn
+$password = "kest2023"
+$notendanafn = $_.notendanafn
+$group = $_.hopur
+
+$user = New-LocalUser -Name $notendanafn -Password (ConvertTo-SecureString $password -AsPlainText -Force) -FullName $nafn 
+
+Add-LocalGroupMember -Group $group - Member $nafn
+Add-LocalGroupMember -Group "Allir" - Member $nafn
+}
