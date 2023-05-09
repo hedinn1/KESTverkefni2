@@ -14,3 +14,7 @@ Héðinn started verkefni 2 but put the file in git hub since it didn't work on 
 
 ## 5. Maí
 Örn was doing verkefni 5 and finished it
+
+## 9. Maí
+
+Verkefni 2, 3, 4, og 5 kláruð
